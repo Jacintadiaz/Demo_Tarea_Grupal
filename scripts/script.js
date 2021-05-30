@@ -11,99 +11,99 @@ new Vue({
       tracks: [
         {
           name: "ENERO",
-          artist: "Me Muero De Amor-Damas Gratis",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/1.jpg",
-          source: 
-          url: "https://www.youtube.com/watch?v=z3wAjJXbYzA",
-          favorited: false
+          artist: "Ignorantes-Bad Bunny",
+          cover: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/img/1.jpeg?raw=true",
+          source: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/mp3/2.mp3?raw=true",
+          url: "https://youtu.be/PC0GvyEIXfk",
+          favorited: true
         },
         {
           name: "FEBRERO",
-          artist: "Ignorantes-Bad Bunny",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/2.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/2.mp3",
-          url: "https://www.youtube.com/watch?v=Lin-a2lTelg",
+          artist: "Muero De Amor-Damas Gratis",
+          cover: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/img/2.jpeg?raw=true",
+          source: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/mp3/1.mp3?raw=true",
+          url: "https://youtu.be/4iAC7Fc44rg",
           favorited: true
         },
         {
           name: "MARZO",
           artist: "It´s The End Of The World As We Know It-R.E.M",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/3.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/3.mp3",
-          url: "https://www.youtube.com/watch?v=ICjyAe9S54c",
+          cover: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/img/3.jpeg?raw=true",
+          source: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/mp3/3.mp3?raw=true",
+          url: "https://youtu.be/Z0GFRcFm-aY",
           favorited: false
         },
         {
           name: "ABRIL",
           artist: "The Final Countdown-Europe",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/4.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/4.mp3",
-          url: "https://www.youtube.com/watch?v=kYgGwWYOd9Y",
+          cover: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/img/4.jpeg?raw=true",
+          source: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/mp3/4.mp3?raw=true",
+          url: "https://youtu.be/9jK-NcRmVcw",
           favorited: false
         },
         {
           name: "MAYO",
-          artist: "Every Day Is Like Sunday-Morrisay",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/5.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/5.mp3",
-          url: "https://www.youtube.com/watch?v=0WlpALnQdN8",
-          favorited: true
+          artist: "Everyday Is Like Sunday-Morrisay",
+          cover: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/img/5.jpeg?raw=true",
+          source: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/mp3/5.mp3?raw=true",
+          url: "https://youtu.be/d0LeL9BUPtA",
+          favorited: false
         },
         {
           name: "JUNIO",
           artist: "So Lonly-The Police",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/6.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/6.mp3",
-          url: "https://www.youtube.com/watch?v=HhoATZ1Imtw",
+          cover: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/img/6.jpeg?raw=true",
+          source: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/mp3/6.mp3?raw=true",
+          url: "https://youtu.be/MX6MvV8cbh8",
           favorited: false
         },
         {
           name: "JULIO",
           artist: "Resistiré-Dúo Dinámico",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/7.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/7.mp3",
-          url: "https://www.youtube.com/watch?v=me6aoX0wCV8",
-          favorited: true
+          cover: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/img/7.jpeg?raw=true",
+          source: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/mp3/7.mp3?raw=true",
+          url: "https://youtu.be/K1rKj6XMt4Q",
+          favorited: false
         },
         {
           name: "AGOSTO",
           artist: "I Will Survive-Gloria Gaynor",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/8.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/8.mp3",
-          url: "https://www.youtube.com/watch?v=00-Rl3Jlx-o",
+          cover: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/img/8.jpeg?raw=true",
+          source: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/mp3/8.mp3?raw=true",
+          url: "https://youtu.be/ARt9HV9T0w8",
           favorited: false
         },
         {
           name: "SEPTIEMBRE",
           artist: "Sobreviviré-Mónica Naranjo",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/9.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
+          cover: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/img/9.jpeg?raw=true",
+          source: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/mp3/9.mp3?raw=true",
+          url: "https://youtu.be/xErS7G3-tCQ",
           favorited: false
         },
         {
           name: "OCTUBRE",
           artist: "Codo Con Codo-Jorge Drexler",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/10.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
-          favorited: false
+          cover: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/img/10.jpeg?raw=true",
+          source: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/mp3/10.mp3?raw=true",
+          url: "https://youtu.be/_fYKg-ssHt0",
+          favorited: true
         },
         {
           name: "NOVIEMBRE",
           artist: "Here Comes The Sun-The Beatles",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/11.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
-          favorited: false
+          cover: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/img/11.jpeg?raw=true",
+          source: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/mp3/11.mp3?raw=true",
+          url: "https://youtu.be/KQetemT1sWc",
+          favorited: true
         },
         {
           name: "DICIEMBRE",
           artist: "Viva La Vida-Coldplay",
-          cover: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/img/9.jpg",
-          source: "https://raw.githubusercontent.com/muhammederdem/mini-player/master/mp3/12.mp3",
-          url: "https://www.youtube.com/watch?v=L3wKzyIN1yk",
-          favorited: false
+          cover: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/img/12.jpeg?raw=true",
+          source: "https://github.com/Jacintadiaz/Demo_Tarea_Grupal/blob/main/mp3/12.mp3?raw=true",
+          url: "https://youtu.be/dvgZkm1xWPE",
+          favorited: true
         }
       ],
       currentTrack: null,
